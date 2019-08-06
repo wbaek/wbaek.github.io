@@ -28,24 +28,26 @@ career-profile:
     title: Career Profile
     summary: |
       Comprehensive understanding of deep learning, computer vision and 
-      augmented reality. Experienced in business include multimeda analysis
+      augmented reality.
+      
+      Experienced in business include multimeda analysis
       using deep leanrning and mordern computer vision technique.
 
 education:
     - degree: MSc in Computer Science
       university: Gwangju Institute of Science and Technology (GIST)
       time: 2009 - 2011
-      details: |
+      details:
 
     - degree: BSc in Computer Science
       university: Soongsil University
       time: 2004 - 2009
-      details: |
+      details:
 
 
 experiences:
     - role: Applied AI Research Scientist
-      time: 2017 - Present
+      time: 2017.12. - Present
       company: Kakao Brain Corp.
       details: |
           - AutoML
@@ -54,7 +56,7 @@ experiences:
           - Open Source Software
 
     - role: Multimedia Developer & Researcher
-      time: 2014 - 2017
+      time: 2014.10. - 2017.11.
       company: Kakao Corp
       details: |
           - Multimedia Research
@@ -65,7 +67,7 @@ experiences:
             - Image & Topic Clustering
 
     - role: Software Develop
-      time: 2011 - 2014
+      time: 2011.01. - 2014.09.
       company: Daum Communication Corp.
       details: |
           - Multimedia Research
@@ -75,36 +77,37 @@ experiences:
             - Large-scale Image & Video Searching
 
     - role: Researcher
-      time: 2009 - 2010
+      time: 2009.12. - 2010.02.
       company: University of Applied Sciences MI-Lab in Austria
       details: |
           Vision Based Blob Tracking for Trbletop Interaction System
 
     - role: Researcher
-      time: 2007 - 2008
+      time: 2007.09. - 2008.12.
       company: Korea Institute of Science And Technology (KIST)
       details: |
-          Hands INteraction in AR using Stereo Vision
+          Hands Interaction in AR using Stereo Vision
 
 
-projects:
-    title: Projects
-    intro: 
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-
-publications:
-    title: Publications
-    intro: 
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# projects:
+#    title: Projects
+#    intro: 
+#
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#
+#publications:
+#    title: Publications
+#    intro: 
+#
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
 
 skills:
@@ -126,7 +129,7 @@ skills:
       - name: TensorFlow (Contributor)
         level: 90%
 
-      - name: PyTOrch
+      - name: PyTorch
         level: 90%
 
 footer:
