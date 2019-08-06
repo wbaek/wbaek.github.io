@@ -1,12 +1,8 @@
 {% assign skills = site.data.data.skills %}
 {% if skills %}
-<section class="skills-section section">
+<div class="skills-container container-block">
 
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-    </span>
+  <h2 class="container-block-title">
     {{ skills.title }}
   </h2>
 
@@ -25,7 +21,8 @@
     </div><!--//item-->
     {% endfor %}
 
+
   </div>
 
-</section><!--//skills-section-->
+</div><!--//interests-->
 {% endif %}
