@@ -15,19 +15,19 @@
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+      <a href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">https://linkedin.com/in/{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
-      <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+      <a href="https://github.com/{{ sidebar.github }}" target="_blank">https://github.com/{{ sidebar.github }}</a>
     </li>
     {% endif %}
 

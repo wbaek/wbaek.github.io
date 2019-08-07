@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: wbaek.personal@gmail.com
-    website: wbaek.github.io #do not add http://
+    website: https://wbaek.github.io #do not add http://
     linkedin: wbaek
     github: wbaek
     gitlab:
@@ -90,15 +90,22 @@ experiences:
 
 
 
-# projects:
-#    title: Projects
-#    intro: 
-#
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
+projects:
+    title: Projects
+    intro: 
+
+    assignments:
+      - title: AutoML
+        time: 2019. - present
+        tagline: "Neural Architecture Search for AutoML"
+
+    assignments:
+      - title: Auto CLNIT
+        time: 2019. - 2019.
+        link: "https://kakaobrain.com/press/75"
+        tagline: "AutoCV 1st place at NeurIPS 2019 AutoDL Challenge, Fully Automated Image Classification without any human intervention"
+
+
 #
 #publications:
 #    title: Publications
@@ -117,6 +124,12 @@ skills:
       - name: Machine Learning (Deep Learning)
         level: 90%
 
+      - name: PyTorch
+        level: 90%
+
+      - name: TensorFlow (Contributor)
+        level: 85%
+
       - name: Computer Vision
         level: 90%
 
@@ -125,11 +138,5 @@ skills:
 
       - name: DevOps
         level: 75%
-
-      - name: TensorFlow (Contributor)
-        level: 90%
-
-      - name: PyTorch
-        level: 90%
 
 footer:
