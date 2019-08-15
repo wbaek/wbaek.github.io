@@ -25,7 +25,7 @@
       </span>
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      - <span class="project-tagline">{{ project.tagline | smartify }}</span>
       {% endif %}
 
     </div><!--//item-->
