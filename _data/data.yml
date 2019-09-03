@@ -101,14 +101,14 @@ projects:
         tagline: "Neural Architecture Search for AutoML"
 
       - title: torchskeleton
-        time: 2019. - 2019.
+        time: 2019. - present
         link: "https://github.com/wbaek/torchskeleton/releases/tag/v0.2.0_dawnbench_cifar10_release"
         tagline: Optimized Utilities for PyTorch, <strong>"1st place at DAWNBench Image Classification on CIFAR10"</strong>, deep learning workloads for quantifying training time
 
       - title: Auto CLNIT
-        time: 2019. - 2019.
+        time: 2019.05. - 2019.08.
         link: "https://kakaobrain.com/press/75"
-        tagline: <strong>"AutoCV 1st place at NeurIPS 2019 AutoDL Challenge"</strong>, Fully Automated Image Classification without any human intervention"
+        tagline: <strong>"AutoCV/AutoCV2 1st place at NeurIPS 2019 AutoDL Challenge"</strong>, Fully Automated Image Classification without any human intervention"
 
 
 #
