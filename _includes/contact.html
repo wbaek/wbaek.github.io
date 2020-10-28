@@ -67,5 +67,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.googlescholar %}
+    <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
+      <a href="{https://scholar.google.co.kr/citations?sortby=pubdate&user={ sidebar.googlescholar }}" target="_blank">google scholar</a>
+    </li>
+    {% endif %}
+
+
   </ul>
 </div><!--//contact-container-->

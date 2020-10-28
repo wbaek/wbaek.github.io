@@ -22,6 +22,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    googlescholar: 8WXfStMAAAAJ
 
 
 career-profile:
@@ -95,13 +96,18 @@ projects:
     intro: 
 
     assignments:
+      - title: representation learning
+        time: 2020. 06. - present
+        link: "#"
+        tagline: "representation learning for AI service"
+
       - title: AutoML
-        time: 2019. - present
+        time: 2019. - 2020. 06.
         link: "#"
         tagline: "Neural Architecture Search for AutoML"
 
       - title: torchskeleton
-        time: 2019. - present
+        time: 2019. - 2019. 12.
         link: "https://github.com/wbaek/torchskeleton/releases/tag/v0.2.0_dawnbench_cifar10_release"
         tagline: Optimized Utilities for PyTorch, <strong>"1st place at DAWNBench Image Classification on CIFAR10"</strong>, deep learning workloads for quantifying training time
 
@@ -129,7 +135,7 @@ skills:
       - name: Machine Learning (Deep Learning)
         level: 90%
 
-      - name: PyTorch
+      - name: PyTorch (Contributor)
         level: 90%
 
       - name: TensorFlow (Contributor)
